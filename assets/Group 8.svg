@@ -1,6 +1,6 @@
-<svg width="153" height="148" viewBox="0 0 153 148" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M76.5 0.999875C34.7685 0.999873 1.00007 33.6308 1.00006 73.8083C1.00006 113.986 34.7685 146.617 76.5 146.617C118.232 146.617 152 113.986 152 73.8083C152 33.6308 118.232 0.999876 76.5 0.999875Z" stroke="#C4C7CF" stroke-width="2"/>
-<ellipse rx="5.63814" ry="13.8125" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 95.6249 94.8238)" fill="#C4C7CF"/>
-<ellipse rx="5.63814" ry="13.8125" transform="matrix(4.37114e-08 -1 -1 -4.37114e-08 95.6252 52.7942)" fill="#C4C7CF"/>
-<path d="M74.375 28.7031C48.5557 28.7031 27.6251 48.8973 27.6251 73.8082C27.6251 98.7191 48.5557 118.913 74.375 118.913" stroke="black" stroke-width="7"/>
+<svg width="148" height="148" viewBox="0 0 148 148" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle r="73" transform="matrix(4.21735e-08 -1 -1 -4.53054e-08 74.0001 74)" stroke="#C4C7CF" stroke-width="2"/>
+<ellipse rx="5.65278" ry="13.3611" transform="matrix(4.06896e-08 -1 -1 -4.69576e-08 92.5 95.0701)" fill="#C4C7CF"/>
+<ellipse rx="5.65278" ry="13.3611" transform="matrix(3.9764e-08 -1 -1 -4.79929e-08 92.5002 52.9314)" fill="#C4C7CF"/>
+<path d="M71.9445 28.7777C46.969 28.7777 26.7223 49.0244 26.7223 73.9999C26.7223 98.9755 46.969 119.222 71.9445 119.222" stroke="black" stroke-width="7"/>
 </svg>
